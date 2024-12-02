@@ -1,4 +1,4 @@
-#Prueba de concepto
+# Prueba de concepto
 
 Se usa este proyecto como prueba de concepto para llamar a la API de OpenAI y generar una consulta sql acorde a la petición entregada.
 
